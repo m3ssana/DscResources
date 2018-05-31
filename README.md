@@ -32,12 +32,12 @@ All DSC resource modules are also listed as submodules of this repository (DscRe
 To download the released source code for **all** DSC resource modules, clone this repository with this git command:
 
 ```
-git clone https://github.com/PowerShell/DscResources.git --recursive
+git clone https://github.com/m3ssana/DscResources.git --recursive
 ```
 
 Alternatively, to download just the documentation provided in this repository, clone this repository with this git command:
 ```
-git clone https://github.com/PowerShell/DscResources.git
+git clone https://github.com/m3ssana/DscResources.git
 ```
 
 ## Released DSC Resource Modules
